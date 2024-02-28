@@ -1,0 +1,32 @@
+{
+  "id": "deyzeria-and-noiceweed-valdas-and-beyond",
+  "title": "Deyzeria & NoiceWeed Valda's and Beyond",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Deyzeria",
+      "discord": "@deyzeria",
+      "flags": {}
+    }
+  ],
+  "esmodules": [
+    "/valdas-and-beyond.mjs"
+  ],
+  "manifest": "https://raw.githubusercontent.com/Sinantrarion/deyzeria-noiceweed-valdas/master/module.json",
+  "url": "https://github.com/Sinantrarion/deyzeria-noiceweed-valdas",
+  "download": "https://github.com/Sinantrarion/deyzeria-noiceweed-valdas/archive/refs/heads/main.zip"
+
+}
